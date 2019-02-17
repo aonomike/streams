@@ -1,3 +1,5 @@
+This project is based on the streams app from Stephen Grinder's react-redux course.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
