@@ -13,7 +13,7 @@ export default (state = INITIAL_STATE, action) => {
         case 'SIGN_OUT':
             return {
                 ...state,
-                isSignedin: false
+                isSignedIn: false
             }
         default:
             return state
